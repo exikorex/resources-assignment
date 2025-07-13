@@ -1,0 +1,7 @@
+site_name: Aromaticity
+nav:
+  - Introduction to aromaticity: index.md
+  - Möbius aromaticity: about.md
+
+theme: 
+  name: material
