@@ -1,4 +1,4 @@
-# Introduction to aromaticity 
+# Introduction to aromaticity  
 
 **Aromaticity** is a concept in organic chemistry that explains the stability of many compounds and why they don't often involve themselves in reactions.
 

@@ -5,3 +5,5 @@ nav:
 
 theme: 
   name: material
+  palette: scheme
+  scheme: slate
