@@ -1,0 +1,2 @@
+# A walkthrough to aromaticity
+This site explores the concept of aromaticity in it's classical sense and the several exceptions to it, with a focus on a special phenomena called Möbius aromaticity. You can expect to have a basic understanding of this beautiful concept after going through this document.
